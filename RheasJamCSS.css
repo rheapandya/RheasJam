@@ -10,7 +10,7 @@
   font-size:100px;
 }
 #Navbar{
-  background:#fcec92;
+  background::#aaaaa7;
   Padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -19,7 +19,7 @@
 }
 
 #Navbar a{
-  background-color: #fcec92;
+  background-color: :#aaaaa7;
   font-family: 'PT Mono', monospace;
   font-decoration: none;
   padding-left: 75px;
@@ -29,14 +29,37 @@
 }
 
 #Navbar a:hover{
-  background-color: #fff3b2;
+  background-color: #e9c6ff;
   border-radius: 10px;
   display:block;
 }
 #Navbar ul{
   text-align: center;
 }
+#WeeksList{
+  background:#fcec92;
+  Padding-top: 5px;
+  padding-bottom: 5px;
+}
+#WeeksList li{
+  display:inline-flex;
+}
 
-h4 {
-  padding: !important 0 5%;
+#WeeksList a{
+  background-color: #fcec92;
+  font-family: 'PT Mono', monospace;
+  font-decoration: none;
+  padding-left: 75px;
+  padding-right: 75px;
+  font-size: 18px;
+  color: #000000;
+}
+
+#WeeksList a:hover{
+  background-color: #fff3b2;
+  border-radius: 10px;
+  display:block;
+}
+#WeeksList ul{
+  text-align: center;
 }
