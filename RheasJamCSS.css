@@ -1,14 +1,13 @@
 *{
-  background-color: #fcec92;
+  background-color: #6699cc;
   text-align: center;
   color: #d3dbe6;
-  font-family: 'PT Mono', monospace;
+  font-family: 'Alegreya Sans', sans-serif;
   text-decoration: none;
   color: #000000
 }
-.Title{
-  font-size:100px;
-}
+
+
 #Navbar{
   background::#aaaaa7;
   Padding-top: 5px;
@@ -20,7 +19,7 @@
 
 #Navbar a{
   background-color: :#aaaaa7;
-  font-family: 'PT Mono', monospace;
+  font-family: 'Alegreya Sans', sans-serif;
   font-decoration: none;
   padding-left: 75px;
   padding-right: 75px;
@@ -47,7 +46,7 @@
 
 #WeeksList a{
   background-color: #fcec92;
-  font-family: 'PT Mono', monospace;
+  font-family: 'Alegreya Sans', sans-serif;
   font-decoration: none;
   padding-left: 75px;
   padding-right: 75px;
